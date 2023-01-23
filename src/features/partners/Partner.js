@@ -10,7 +10,7 @@ const Partner = ({partner}) => {
             </div>
             </>
         );
-        return null;
+        
     }
 
 };
